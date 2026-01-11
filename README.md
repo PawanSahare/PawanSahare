@@ -60,7 +60,7 @@ Currently transitioning toward **Data Analytics** and **CAD Automation**, with a
 
 ## Professional Links
 
-- LinkedIn: *([add link](https://www.linkedin.com/in/pawan-sahare-439bb8100/))*
+- LinkedIn: *((https://www.linkedin.com/in/pawan-sahare-439bb8100/))*
 - Email: *(pawan.sahare300@gmail.com)*
 - Portfolio / GitHub Repositories: *(under-construction)*
 
